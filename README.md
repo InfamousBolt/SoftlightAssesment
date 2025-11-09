@@ -157,7 +157,6 @@ The converter generates:
 
 ### Debug Tools
 - `debug_figma.py` - Inspect Figma file structure
-- `find_input_fields.py` - Analyze specific elements
 - `dump_input_fields.py` - Dump all properties of frames
 
 ### Testing
